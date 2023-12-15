@@ -2,12 +2,6 @@
 
 /* These CSS styles will be applied globally to every page of this site. Write your CSS here, e.g.: */
 
-@import url('https://fonts.googleapis.com/css?family=Trirong');
-
-.rich-text {
-  font-family: "Trirong", serif;
-}
-
 /*  Change button background color to red: */
 /* .button {
     background-color: red;
